@@ -1,8 +1,8 @@
-# Less, but better.
+# kb_04
+
+### Less, but better.
 
 #### Dieter Rams
-
-# kb_04
 
 This is a parcial redesign of the `half ferris sweep half`.
 
