@@ -4,7 +4,7 @@
 
 #### Dieter Rams
 
-This is a parcial redesign of the `half ferris sweep half`.
+This is a parcial redesign of the half [ferris sweep](https://github.com/davidphilipbarr/Sweep) pcb.
 
 #### The main changes that have been done are:
 
@@ -23,3 +23,7 @@ This is a parcial redesign of the `half ferris sweep half`.
 ## Silk art
 
 Be creative. In the folder `Silk mockup` there are a mockup of the board, print it and draw your custom silk art.
+
+## Disclaimer
+
+The files in this repo may contain problems, use them with this in mind.
