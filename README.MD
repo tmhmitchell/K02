@@ -11,11 +11,11 @@ This is a parcial redesign of the half [ferris sweep 2](https://github.com/david
 - Add teardrop on solder joints.
 - Reposition of the reset and power switch.
 - Remove all the silk graphics for a better looking board minimal.
+- Make an alternate version with `USB-C` instead of `TRRS`.
 
 ### What I plan on doing:
 
 - Change the power switch to something better.
-- Change the TRRS to USB-C.
 - Do an extensive and compreensive assembly manual.
 - Design a _minimalist_ case for FTM print, resin and laser cut acrylic or metal.
 
