@@ -16,9 +16,10 @@ This is a parcial redesign of the half [ferris sweep](https://github.com/davidph
 
 #### What I plan on doing:
 
-- Design a _minimalist_ case for FTM print.
-- Design a _minimalist_ case for laser cut acrylic or metal.
+- Change the power switch to something better.
+- Change the TRRS to USB-C.
 - Do an extensive and compreensive assembly manual.
+- Design a _minimalist_ case for FTM print, resin and laser cut acrylic or metal.
 
 ## Silk art
 
