@@ -10,9 +10,9 @@ This is a parcial redesign of the [Ferris Sweep 2 half-swept](https://github.com
 - Add support screw holes.
 - Add teardrop on solder joints.
 - Reposition of the reset and power switch.
-- Remove all the informative silk graphics for a better looking board.
-- Add commissioned art by the brazilian artist [Aline Dal Pont](https://www.instagram.com/manifesto.efemero/).
 - Create an alternative version with `USB-C` instead of `TRRS`.
+- Add commissioned art by the brazilian artist [Aline Dal Pont](https://www.instagram.com/manifesto.efemero/).
+- Remove all the informative silk graphics for a better looking board.
 
 ### What I plan on doing:
 
