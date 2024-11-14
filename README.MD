@@ -2,22 +2,24 @@
 
 **Less, but better.** - Dieter Rams
 
-This is a parcial redesign of the half [ferris sweep 2](https://github.com/davidphilipbarr/Sweep) pcb.
+This is a parcial redesign of the [Ferris Sweep 2 half-swept](https://github.com/davidphilipbarr/Sweep).
 
 ### The main changes that have been done are:
 
-- Remove pcb margins.
+- Change pcb overall form.
 - Add support screw holes.
 - Add teardrop on solder joints.
 - Reposition of the reset and power switch.
-- Remove all the silk graphics for a better looking board minimal.
-- Make an alternate version with `USB-C` instead of `TRRS`.
+- Remove all the informative silk graphics for a better looking board.
+- Add commissioned art by the brazilian artist [Aline Dal Pont](https://www.instagram.com/manifesto.efemero/).
+- Create an alternative version with `USB-C` instead of `TRRS`.
 
 ### What I plan on doing:
 
-- Change the power switch to something better.
+- Change the power switch to something better build. _I accept suggestions_.
 - Do an extensive and compreensive assembly manual.
-- Design a _minimalist_ case for FTM print, resin and laser cut acrylic or metal.
+- Design a _minimalist_ and _low profile_ case to be laser cut in acrylic.
+- Create an bluetooth dongle with e-ink display and media control functions.
 
 ## Versions
 
@@ -27,8 +29,8 @@ The list of materials for each version will be added inside of the respective fo
 
 ## Silk art
 
-Be creative. In the folder `Silk mockup` there are a mockup of the board, print it and draw your custom silk art.
+I commissioned the work of a local artist for this board. You can remove the work completely or leave it as it is with the credits. You cannot use the work outside of this board or modify it in any way without the express autorization of the artist.
 
 ## Disclaimer
 
-The files in this repo may contain problems, use them with this in mind.
+The files in this repo may contain problems, use them at your own risk.
