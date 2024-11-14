@@ -34,3 +34,9 @@ I commissioned the work of a local artist for this board. You can remove the wor
 ## Disclaimer
 
 The files in this repo may contain problems, use them at your own risk.
+
+## Pcb images
+
+<p float="center">
+  <img src="/other/img/img_00.png" width="90%" /> 
+</p>
