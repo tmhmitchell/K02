@@ -38,5 +38,5 @@ The files in this repo may contain problems, use them at your own risk.
 ## Pcb images
 
 <p float="center">
-  <img src="/other/img/img_00.png" width="90%" /> 
+  <img src="/other/img/img_00.png" width="100%" /> 
 </p>
