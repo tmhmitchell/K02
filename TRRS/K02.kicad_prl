@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 40,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -62,7 +62,7 @@
       36,
       40
     ],
-    "visible_layers": "ffcf0ff_80000001",
+    "visible_layers": "ffc3dff_00000001",
     "zone_display_mode": 1
   },
   "git": {
@@ -72,7 +72,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "half-swept.kicad_prl",
+    "filename": "K02.kicad_prl",
     "version": 3
   },
   "project": {
