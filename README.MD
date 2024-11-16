@@ -37,6 +37,8 @@ I commissioned the work of a local artist for this board. You can remove the wor
 
 The files in this repo may contain problems, use them at your own risk.
 
+For the type nerds (like me), the text and logo are [FuturaRenner](https://www.fontsquirrel.com/fonts/futura-renner) aka [Formera](https://github.com/noirblancrouge/Formera).
+
 ## Pcb images
 
 <p float="center">
