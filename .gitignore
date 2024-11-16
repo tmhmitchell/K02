@@ -1,6 +1,6 @@
 K02-backups/
-*-cache.lib
-*-rescue.lib
-*-rescue.dcm
-/fabrication-toolkit-options.json
-/fp-info-cache
+TRRS/K02-cache.lib
+TRRS/K02-rescue.lib
+TRRS/K02-rescue.dcm
+TRRS/fabrication-toolkit-options.json
+TRRS/fp-info-cache
