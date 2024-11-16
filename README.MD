@@ -1,3 +1,6 @@
+<p float="left">
+  <img src="/other/img/logo.svg" width="20%" /> 
+</p>
 # K02
 
 **Less, but better.** - Dieter Rams
@@ -38,5 +41,6 @@ The files in this repo may contain problems, use them at your own risk.
 ## Pcb images
 
 <p float="center">
-  <img src="/other/img/img_00.png" width="100%" /> 
+  <img src="/other/img/top.png" width="48%" /> 
+  <img src="/other/img/bottom.png" width="48%" /> 
 </p>
