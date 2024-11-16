@@ -45,10 +45,21 @@ The list of materials for each version will be added inside of the respective fo
 
 I commissioned the work of a local artist for this board. You can remove the work completely or leave it as it is with the credits. You cannot use the work outside of this board or modify it in any way without the express autorization of the artist.
 
+## Firmware
+
+As this redesign had only touched on aesthetic aspects, you can use the firmware from the [Ferris Sweep](https://github.com/davidphilipbarr/Sweep).
+
 ## Disclaimer
 
 The files in this repo may contain problems, use them at your own risk.
 
 For the type nerds (like me), the text and logo are [FuturaRenner](https://www.fontsquirrel.com/fonts/futura-renner) aka [Formera](https://github.com/noirblancrouge/Formera).
 
-The team behind the design of the incredible [Ferris Sweep 2 half-swept](https://github.com/davidphilipbarr/Sweep) are: Pierre Chevalier, David Barr, Ibnu Daru, Aji, Duccio.
+The team behind the design of the incredible [Ferris Sweep](https://github.com/davidphilipbarr/Sweep) are:
+
+- [Pierre Chevalier](https://github.com/pierrechevalier83)
+- [David Barr](https://github.com/davidphilipbarr)
+- [Ibnu Daru Aji](https://github.com/ibnuda/)
+- [Duccio](https://github.com/duckyb)
+
+Without their work this parcial redesign would not be possible.
