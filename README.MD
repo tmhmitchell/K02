@@ -18,14 +18,15 @@ This is a parcial redesign of the [Ferris Sweep 2 half-swept](https://github.com
 
 ### What I plan on doing:
 
-- Change the power switch to something better build. _I accept suggestions_.
 - Do an extensive and compreensive assembly manual.
 - Design a _minimalist_ and _low profile_ case to be laser cut in acrylic.
 - Create an bluetooth dongle with e-ink display and media control functions.
+- Change the power switch to something better build. _I accept suggestions_.
+- Create an 36 keys pcb.
 
 ## Versions
 
-At the moment this repo contains 2 versions, one with `TRRS` and one with `USB-C` connecting the halves. Both pcbs are untested, I advise you to review them before production.
+At the moment this repo contains 2 versions, one with `TRRS` and one with `USB-C` connecting the halves. The version with `TRRS`Both pcbs are untested, I advise you to review them before production.
 
 The list of materials for each version will be added inside of the respective folder.
 
@@ -38,9 +39,3 @@ I commissioned the work of a local artist for this board. You can remove the wor
 The files in this repo may contain problems, use them at your own risk.
 
 For the type nerds (like me), the text and logo are [FuturaRenner](https://www.fontsquirrel.com/fonts/futura-renner) aka [Formera](https://github.com/noirblancrouge/Formera).
-
-## Pcb images
-
-<p float="center">
-  <img src="/other/img/img00.png" width="100%" /> 
-</p>
