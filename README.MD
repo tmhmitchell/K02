@@ -6,7 +6,7 @@
 
 This is a parcial redesign of the [Ferris Sweep 2 half-swept](https://github.com/davidphilipbarr/Sweep).
 
-### The main changes that have been done are:
+### What have been done:
 
 - Change pcb overall form.
 - Add support screw holes.
@@ -15,14 +15,14 @@ This is a parcial redesign of the [Ferris Sweep 2 half-swept](https://github.com
 - Create an alternative version with `USB-C` instead of `TRRS`.
 - Add commissioned art by the brazilian artist [Aline Dal Pont](https://www.instagram.com/manifesto.efemero/).
 - Remove all the informative silk graphics for a better looking board.
+- Design a _minimalist_ and _low profile_ case to be laser cut in acrylic.
 
 ### What I plan on doing:
 
 - Do an extensive and compreensive assembly manual.
-- Design a _minimalist_ and _low profile_ case to be laser cut in acrylic.
 - Create an bluetooth dongle with e-ink display and media control functions.
 - Change the power switch to something better build. _I accept suggestions_.
-- Create an 36 keys pcb.
+- Create an 36 keys pcb with breakpoints.
 
 ## Versions
 
