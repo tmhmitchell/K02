@@ -27,5 +27,5 @@
 # PCB
 
 <p float="center">
-  <img src="/other/img/img037777777776.png" width="100%" /> 
+  <img src="/other/img/img00.png" width="100%" /> 
 </p>
