@@ -21,7 +21,7 @@
 
 | What | Quantity            |
 | ---- | ------------------- |
-| 2    | TRRS jack [PJ-320A] |
+| 2    | TRRS jack (PJ-320A) |
 | 2    | TRRS cable          |
 
 # PCB
