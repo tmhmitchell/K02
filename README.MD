@@ -2,8 +2,6 @@
   <img src="/other/img/logo.svg" width="20%" /> 
 </p>
 
-# K02
-
 **Less, but better.** - Dieter Rams
 
 This is a parcial redesign of the [Ferris Sweep 2 half-swept](https://github.com/davidphilipbarr/Sweep).
