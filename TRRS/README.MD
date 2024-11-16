@@ -10,7 +10,7 @@
 | 2        | reset switches (Omron [B3U-1000P(M)](https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3u.pdf)) |
 | ?        | Rubber feet (8mm x 2mm)                                                                            |
 
-## Wirelless
+## Wireless
 
 | What | Quantity                        |
 | ---- | ------------------------------- |
