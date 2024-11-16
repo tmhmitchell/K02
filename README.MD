@@ -41,6 +41,5 @@ The files in this repo may contain problems, use them at your own risk.
 ## Pcb images
 
 <p float="center">
-  <img src="/other/img/top.png" width="48%" /> 
-  <img src="/other/img/bottom.png" width="48%" /> 
+  <img src="/other/img/img00.png" width="100%" /> 
 </p>
