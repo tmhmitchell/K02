@@ -6,6 +6,17 @@
 
 This is a parcial redesign of the [Ferris Sweep 2 half-swept](https://github.com/davidphilipbarr/Sweep).
 
+In other words it's a:
+
+- low profile
+- 34 keys
+- column staggered
+- diodeless
+- reversible pcb
+- non-hotswap
+- wireless and wired capable
+- Cheaper than the [cheapino](https://github.com/tompi/cheapino) (at the time of the build)
+
 ### What have been done:
 
 - Change pcb overall form.
@@ -15,7 +26,7 @@ This is a parcial redesign of the [Ferris Sweep 2 half-swept](https://github.com
 - Create an alternative version with `USB-C` instead of `TRRS`.
 - Add commissioned art by the brazilian artist [Aline Dal Pont](https://www.instagram.com/manifesto.efemero/).
 - Remove all the informative silk graphics for a better looking board.
-- Design a _minimalist_ and _low profile_ case to be laser cut in acrylic.
+- Design a _minimalist_ and _low profile_ [case](/TRRS/Case/) to be laser cut in acrylic.
 
 ### What I plan on doing:
 
