@@ -1,6 +1,7 @@
 <p float="left">
   <img src="/other/img/logo.svg" width="20%" /> 
 </p>
+
 # K02
 
 **Less, but better.** - Dieter Rams
