@@ -10,6 +10,7 @@ In other words it's a:
 
 - low profile
 - 34 keys
+- choc spaced
 - column staggered
 - diodeless
 - reversible pcb
