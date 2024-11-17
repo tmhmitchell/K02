@@ -44,7 +44,7 @@ The list of materials for each version will be added inside of the respective fo
 
 ## Silk art
 
-I commissioned the work of a local artist for this board. You can remove the work completely or leave it as it is with the credits. You cannot use the work outside of this board or modify it in any way without the express autorization of the artist.
+I commissioned the work of [Aline Dal Pont](https://www.instagram.com/manifesto.efemero/) for this board. You can remove the work completely or leave it as it is with the credits. You cannot use the work outside of this board or modify it in any way without the express autorization of the artist.
 
 ## Firmware
 
