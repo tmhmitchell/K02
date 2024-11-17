@@ -10,7 +10,7 @@ In other words it's a:
 
 - low profile
 - 34 keys
-- choc spaced
+- choc MBK spaced (17,5mm x 16,5mm)
 - column staggered
 - diodeless
 - reversible pcb
@@ -35,6 +35,7 @@ In other words it's a:
 - Create an bluetooth dongle with e-ink display and media control functions.
 - Change the power switch to something better build. _I accept suggestions_.
 - Create an 36 keys pcb with breakpoints.
+- Add a variation with choc spacing for CFX keycaps (16,5mm x 16,5mm)
 
 ## Versions
 
