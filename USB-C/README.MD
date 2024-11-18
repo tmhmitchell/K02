@@ -19,13 +19,7 @@
 
 ## Wired
 
-| What | Quantity            |
-| ---- | ------------------- |
-| 2    | TRRS jack (PJ-320A) |
-| 1    | TRRS cable          |
-
-# PCB
-
-<p float="center">
-  <img src="/other/img/img00.png" width="100%" /> 
-</p>
+| What | Quantity                                                                                                                                     |
+| ---- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2    | USB-C connector ([TYPE-C-31-M-17](https://www.lcsc.com/datasheet/lcsc_datasheet_2410010030_Korean-Hroparts-Elec-TYPE-C-31-M-17_C283540.pdf)) |
+| 1    | USB-C cable                                                                                                                                  |

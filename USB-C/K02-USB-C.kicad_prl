@@ -62,7 +62,7 @@
       36,
       40
     ],
-    "visible_layers": "ffc1070_80000001",
+    "visible_layers": "ffc1070_00000001",
     "zone_display_mode": 1
   },
   "git": {
@@ -72,7 +72,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "half-swept.kicad_prl",
+    "filename": "K02-USB-C.kicad_prl",
     "version": 3
   },
   "project": {
