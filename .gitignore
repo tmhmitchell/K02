@@ -5,8 +5,8 @@ TRRS/K02-rescue.lib
 TRRS/K02-rescue.dcm
 TRRS/fabrication-toolkit-options.json
 TRRS/fp-info-cache
-USB-C/fp-info-cache
 USB-C/K02-cache.lib
 USB-CRRS/K02-rescue.lib
 USB-C/K02-rescue.dcm
 USB-C/fabrication-toolkit-options.json
+USB-C/fp-info-cache
