@@ -39,7 +39,7 @@ Another important thing is that this is a parcial redesign of the [Ferris Sweep 
 - Create an 36 keys pcb with breakpoints.
 - Organize the case in two version, full and lite.
 - Do an extensive and compreensive assembly manual.
-- Add a variation with choc spacing for CFX keycaps (16,5mm x 16,5mm).
+- Add a variation with choc spacing for [CFX keycaps](https://kbd.news/CFX-keycap-1553.html) (16,5mm x 16,5mm).
 - Change the power switch to something better build. _I accept suggestions_.
 - Create an bluetooth dongle with e-ink display and media control functions.
 
