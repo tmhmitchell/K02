@@ -5,8 +5,8 @@
 | 2        | laser cut acrylic 2mm\* of each file |
 | 2        | heat insert M2(OD 3.2mm) 2mm lenght  |
 
-\*The laser kerf need to be ajusted based on the kerf. You can use inkscape offset path effect to do that.
+\*The laser kerf need to be ajusted. You can use inkscape offset path effect to do that based on the kerf value provided by your company of choice.
 
 ## What is left to do
 
-- Add recess for the rubber feet. The best option is to do this based on the rubber feet you find, i suggest 8mm x 3mm.
+Add recess for the rubber feet. The best option is to do this based on the rubber feet you find, i suggest 8mm x 3mm.
