@@ -45,7 +45,9 @@ Another important thing is that this is a parcial redesign of the [Ferris Sweep 
 
 ## Versions
 
-At the moment this repo contains 2 versions, one with `TRRS` and one with `USB-C` connecting the halves. Both PCBs are untested, I advise you to review them before production.
+At the moment this repo contains 2 versions, one with `TRRS` and one with `USB-C` connecting the halves. In the community the TRRS connectors are not praised, due to causing shorts when unpluging it with the board powered on, but I still suggest you to use them. I suggest this due to the USB-C risk of being plugged directly to the computer. 
+
+Both PCBs are untested, I advise you to review them before production.
 
 The list of materials for each version are inside of the respective folder.
 
