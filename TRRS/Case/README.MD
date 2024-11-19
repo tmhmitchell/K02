@@ -2,10 +2,10 @@
 
 | Quantity | What                                 |
 | -------- | ------------------------------------ |
-| 2        | laser cut acrylic 2mm\* of each file |
+| 2        | laser cut acrylic 2mm of each file\* |
 | 2        | heat insert M2(OD 3.2mm) 2mm lenght  |
 
-\*The laser kerf need to be ajusted. You can use inkscape offset path effect to do that based on the kerf value provided by your company of choice.
+\*The laser kerf need to be ajusted. You can use inkscape offset path effect to do that based on the kerf value provided by the manufacture facility.
 
 ## What is left to do
 
