@@ -4,7 +4,7 @@
 
 **Less, but better.** - Dieter Rams
 
-After seeing the [Ferris Sweep](https://github.com/davidphilipbarr/Sweep) for the first time I fall in love with it, but, as a designer I cannot accept the thinks the way they are. So I've done some experimentation with the form.
+After seeing the [Ferris Sweep](https://github.com/davidphilipbarr/Sweep) for the first time I've fallen in love with it, but as a designer I cannot accept the thinks the way they are. So I've done some experimentation with it.
 
 I changed the overall form of the board so it can be a little bit more compact and give the impression that the keys are floating in the desk. This change also expand the posibilities of case design, for example, you can do some designs inspired in the [totem](https://github.com/GEIGEIGEIST/TOTEM) aesthethic.
 
