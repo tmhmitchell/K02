@@ -1,24 +1,32 @@
 # Acrylic case - In development
 
-This case has two versions. The **full** version will add 2mm to the board height. The **lite** version don't add any height to the board.
+This case has two versions:
 
-For both versions the laser kerf need to be ajusted. You can use inkscape offset path effect to do that based on the kerf value provided by the manufacture.
+- The **one-piece** use laser engraving and just one sheet of atleast 3mm acrylic, in the 3mm sheet it will add 1mm to the board heighuse laser engraving and just one sheet of atleast 3mm acrylic, in the 3mm sheet it will add 1mm to the board height.
+- The **two-pieces** use only laser cut and will add 2mm to the board height.
 
-## Full
+## One-piece
+
+| Quantity | What                                |
+| -------- | ----------------------------------- |
+| 2        | Laser cut acrylic 3mm               |
+| 12       | Heat insert M2(OD 3.2mm) 2mm lenght |
+| 12       | Screw M2 4mm lenght                 |
+| 12       | Brass washer M2 0.4mm height        |
+
+The parts of the archive inked in black need to be engraved in 2mm deep. As the people that do laser cut usually don't know their exact kerf width I assumed something around [0.18mm](https://cutlasercut.com/drawing-resources/expert-tips/laser-kerf/) in the heat inserts (2.7mm + (0.18mm\*2) = 3.06mm). All the remaining cuts are not ajusted for kerf.
+
+## Two-pieces
 
 | Quantity | What                                |
 | -------- | ----------------------------------- |
 | 2        | Laser cut acrylic 2mm back          |
 | 2        | Laser cut acrylic 2mm middle        |
-| 2        | Heat insert M2(OD 3.2mm) 2mm lenght |
-
-## Lite
-
-| Quantity | What                                |
-| -------- | ----------------------------------- |
-| 2        | Laser cut and engraved acrylic 3mm  |
-| 2        | Heat insert M2(OD 3.2mm) 3mm lenght |
+| 12       | Heat insert M2(OD 3.2mm) 2mm lenght |
+| 12       | Screw M2 5mm lenght                 |
 
 ## How to make it better
+
+The laser kerf need to be ajusted. You can use inkscape offset path effect to do that based on the kerf value provided by the manufacture.
 
 You can add recess for the rubber feet. The best option is to do this based on the rubber feet you find.
