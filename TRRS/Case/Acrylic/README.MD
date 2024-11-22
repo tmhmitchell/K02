@@ -1,4 +1,4 @@
-# Acrylic case - In development
+# Acrylic case
 
 This case has two versions:
 
@@ -16,7 +16,7 @@ This case has two versions:
 
 The parts of the archive inked in black need to be engraved in 2mm deep. As the people that do laser cut usually don't know their exact kerf width I assumed something around [0.18mm](https://cutlasercut.com/drawing-resources/expert-tips/laser-kerf/) in the heat inserts (2.7mm + (0.18mm\*2) = 3.06mm). All the remaining cuts are not ajusted for kerf.
 
-## Two-pieces
+## Two-pieces - Unfinished
 
 | Quantity | What                                |
 | -------- | ----------------------------------- |
