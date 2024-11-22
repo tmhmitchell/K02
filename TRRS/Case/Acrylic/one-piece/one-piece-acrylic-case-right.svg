@@ -26,15 +26,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="-55.861435"
-     inkscape:cy="156.9777"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="273.29677"
+     inkscape:cy="274.35743"
      inkscape:window-width="1920"
      inkscape:window-height="1057"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g6"
+     inkscape:current-layer="g7"
      showguides="true" />
   <title
      id="title1">SVG Image created as K02-B_Mask.svg date 2024/11/16 13:16:07 </title>
@@ -746,6 +746,59 @@
          style="display:inline;stroke:#000000;stroke-width:0.0499999;stroke-linecap:square;stroke-dashoffset:3.59055;paint-order:markers fill stroke"
          id="path2"
          sodipodi:nodetypes="ccccccssscccccccc" />
+    </g>
+    <g
+       id="g7"
+       transform="matrix(0.51072369,0,0,0.52518036,96.934757,60.696005)"
+       inkscape:label="magnets 5mm">
+      <ellipse
+         style="fill:#000000;stroke:#000000;stroke-width:0.0499999;stroke-linecap:square;stroke-dashoffset:3.59055;paint-order:markers fill stroke"
+         id="path3"
+         cx="133.58386"
+         cy="25.7363"
+         rx="4.5759625"
+         ry="4.4499998"
+         transform="scale(-1,1)" />
+      <ellipse
+         style="fill:#000000;stroke:#000000;stroke-width:0.0499999;stroke-linecap:square;stroke-dashoffset:3.59055;paint-order:markers fill stroke"
+         id="path3-9-6"
+         cx="1.8931084"
+         cy="-11.134567"
+         rx="4.5759625"
+         ry="4.4499998"
+         transform="scale(-1,1)" />
+      <ellipse
+         style="fill:#000000;stroke:#000000;stroke-width:0.0499999;stroke-linecap:square;stroke-dashoffset:3.59055;paint-order:markers fill stroke"
+         id="path3-7"
+         cx="140.21968"
+         cy="-63.281982"
+         rx="4.5759625"
+         ry="4.4499998"
+         transform="scale(-1,1)" />
+      <ellipse
+         style="fill:#000000;stroke:#000000;stroke-width:0.0499999;stroke-linecap:square;stroke-dashoffset:3.59055;paint-order:markers fill stroke"
+         id="path3-7-6"
+         cx="76.348396"
+         cy="-47.074596"
+         rx="4.5759625"
+         ry="4.4499998"
+         transform="scale(-1,1)" />
+      <ellipse
+         style="fill:#000000;stroke:#000000;stroke-width:0.0499999;stroke-linecap:square;stroke-dashoffset:3.59055;paint-order:markers fill stroke"
+         id="path3-9-6-7"
+         cx="15.845319"
+         cy="-66.378448"
+         rx="4.5759625"
+         ry="4.4499998"
+         transform="scale(-1,1)" />
+      <ellipse
+         style="fill:#000000;stroke:#000000;stroke-width:0.0499999;stroke-linecap:square;stroke-dashoffset:3.59055;paint-order:markers fill stroke"
+         id="path3-9"
+         cx="101.99757"
+         cy="-105.60125"
+         rx="4.5759625"
+         ry="4.4499998"
+         transform="scale(-1,1)" />
     </g>
   </g>
 </svg>
