@@ -27,6 +27,6 @@ The parts of the archive inked in black need to be engraved in 2mm deep. As the 
 
 ## How to make it better
 
-The laser kerf need to be ajusted. You can use inkscape offset path effect to do that based on the kerf value provided by the manufacture.
+The laser kerf width can be ajusted to get a more precise finish. You can use inkscape offset path effect to do that based on the kerf value provided by the manufacture.
 
 You can add recess for the rubber feet. The best option is to do this based on the rubber feet you find.
