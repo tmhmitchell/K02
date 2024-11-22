@@ -13,7 +13,7 @@ This case has two versions:
 | 12       | Heat insert M2(OD 3.2mm) 2mm lenght |
 | 12       | Screw M2 4mm lenght                 |
 | 12       | Brass washer M2 0.4mm height        |
-| 12       | Neodymium magnets 5mm x 2mm         |
+| 12       | Neodymium magnets 5mm x 5mm x 2mm   |
 
 The parts of the archive inked in black need to be engraved in 2mm deep. As the people that do laser cut usually don't know their exact kerf width I assumed something around [0.18mm](https://cutlasercut.com/drawing-resources/expert-tips/laser-kerf/) in the heat inserts (2.7mm + (0.18mm\*2) = 3.06mm). All the remaining cuts are not ajusted for kerf.
 
