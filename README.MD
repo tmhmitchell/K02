@@ -6,7 +6,7 @@
 
 After seeing the [Ferris Sweep](https://github.com/davidphilipbarr/Sweep) for the first time I've fallen in love, but as a designer I cannot accept the things the way they are. So I've done some experimentation with it.
 
-I changed the overall form of the board so it can be a little bit more compact and be a canvas for expression in the matter of case design. For example, you can do a case inspired in the [totem](https://github.com/GEIGEIGEIST/TOTEM) or in the [stront](https://github.com/zzeneg/stront) or even in the haesthethic.
+I changed the overall form of the board so it can be a little bit more compact and be a canvas for expression in the matter of case design. For example, you can do a case inspired in the [totem](https://github.com/GEIGEIGEIST/TOTEM) or in the [stront](https://github.com/zzeneg/stront) aesthethic.
 
 With this redesign I've taken every milimiter into account. As so the acrylic case released with the `TRRS` version counts with 2 versions, the full version adds 2mm to the board height, and the lite version adds 0mm.
 
