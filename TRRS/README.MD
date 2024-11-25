@@ -28,4 +28,6 @@
 
 <p float="center">
   <img src="/other/img/img00.png" width="100%" /> 
+  <img src="/other/img/TRRS/K02-F_Cu.svg" width="49%" /> 
+  <img src="/other/img/TRRS/K02-B_Cu.svg" width="49%" /> 
 </p>
