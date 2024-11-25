@@ -2,10 +2,10 @@
 
 This case has two versions:
 
-- The **one-piece** use laser engraving and just one sheet of at least 3mm acrylic, in the 3mm sheet it will add 1mm to the board height
-- The **two-pieces** use only laser cut and will add 2mm to the board height.
+- The **one-piece** make use of laser engraving and just one sheet of at least 3mm thick acrylic, in the configuration it will add 1mm to the board height
+- The **two-pieces** case are unfinished.
 
-**I've noted that when opened in some softwares the overall size of the case changes, so be aware and compare it with the size of the pcb before the production.**
+**I've noted that when opened in some softwares the overall size of the case changes, the ideal size is 109.4mm.**
 
 ## One-piece
 
