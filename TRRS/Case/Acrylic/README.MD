@@ -11,7 +11,7 @@ This case has two versions:
 
 | Quantity | What                                |
 | -------- | ----------------------------------- |
-| 2        | Laser cut acrylic 3mm               |
+| 2        | Laser engraved acrylic 3mm               |
 | 12       | Heat insert M2(OD 3.2mm) 2mm lenght |
 | 12       | Screw M2 4mm lenght                 |
 | 12       | Brass washer M2 0.4mm height        |
