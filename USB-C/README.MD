@@ -23,3 +23,10 @@
 | ---- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2    | USB-C connector ([TYPE-C-31-M-17](https://www.lcsc.com/datasheet/lcsc_datasheet_2410010030_Korean-Hroparts-Elec-TYPE-C-31-M-17_C283540.pdf)) |
 | 1    | USB-C cable                                                                                                                                  |
+
+# PCB
+
+<p float="center">
+  <img src="/other/img/USB-C/K02-USB-C-B_Cu.svg" width="49%" /> 
+  <img src="/other/img/USB-C/K02-USB-C-F_Cu.svg" width="49%" /> 
+</p>
