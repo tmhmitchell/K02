@@ -51,6 +51,8 @@ At the moment this repo contains 2 versions, one with `TRRS` and one with `USB-C
 
 The list of materials for each version are inside of the respective folder.
 
+The [gerber files are in the release section.](https://github.com/anothermimich/K02/releases)
+
 ## Silk art
 
 I commissioned the work of the brazilian artist [Aline Dal Pont](https://www.instagram.com/manifesto.efemero/) for this board. You can remove the work completely or leave it as it is with the credits. You cannot use the work outside of this board or modify it in any way without the express autorization of the artist.
