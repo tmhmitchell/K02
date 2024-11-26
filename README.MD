@@ -47,7 +47,7 @@ This is a parcial redesign of the [Ferris Sweep 2 half-swept](https://github.com
 
 ## Versions
 
-At the moment this repo contains 2 versions, one with `TRRS` and one with `USB-C` connecting the halves. In the community the TRRS connectors are not praised, due to causing problems when unpluged with the board powered on. With that in mind I still suggest you to use them due to the USB-C risk of being plugged directly to a power supply, like a computer. This risk is agravated when you take other people into account.
+At the moment this repo contains 2 versions, one with `TRRS` and one with `USB-C` connecting the halves. In the community the TRRS connectors are not praised, due to causing problems when unpluged with the board powered on. The `USB-C` if not wired correctly may introduce some [risk of being connected directly to a power supply](https://docs.qmk.fm/features/split_keyboard) by mistake. I've tried my best to wired it to prevent this problem, but even without a direct risk [it's not recommend to do it](https://github.com/zmkfirmware/zmk/issues/1110#issuecomment-2395179298).
 
 The list of materials for each version are inside of the respective folder.
 

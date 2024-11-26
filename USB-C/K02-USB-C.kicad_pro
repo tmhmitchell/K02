@@ -39,7 +39,7 @@
         "pads": {
           "drill": 0.0,
           "height": 1.6,
-          "width": 0.7
+          "width": 0.9
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -450,7 +450,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "half-swept.kicad_pro",
+    "filename": "K02-USB-C.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -593,6 +593,11 @@
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "1418ad6a-8a4d-429d-b07e-469b1ffa21a0",
+      "Raiz"
+    ]
+  ],
   "text_variables": {}
 }
