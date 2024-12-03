@@ -33,8 +33,6 @@ This is a parcial redesign of the [Ferris Sweep 2 half-swept](https://github.com
 - Add commissioned art by the brazilian artist [Aline Dal Pont](https://www.instagram.com/manifesto.efemero/).
 - Remove all the informative silk graphics for a better looking board.
 
-### What I plan on doing:
-
 ### What I may do<sup>1<sup>:
 
 - Create an 36 keys pcb with breakpoints.
