@@ -28,31 +28,36 @@ This is a parcial redesign of the [Ferris Sweep 2 half-swept](https://github.com
 - Add support screw holes.
 - Add teardrop on solder joints.
 - Reposition of the reset and power switch.
+- Do an extensive and compreensive [assembly manual](/other/manuals/k02-assembly-manual.pdf).
 - Create an alternative version with `USB-C` instead of `TRRS`.
 - Add commissioned art by the brazilian artist [Aline Dal Pont](https://www.instagram.com/manifesto.efemero/).
 - Remove all the informative silk graphics for a better looking board.
 
 ### What I plan on doing:
 
-- Do an extensive and compreensive assembly manual.
-- Design some _minimalist_ and _low profile_ [cases](/TRRS/Case/).
-
 ### What I may do<sup>1<sup>:
 
 - Create an 36 keys pcb with breakpoints.
+- Design some _minimalist_ and _low profile_ cases.
 - Change the power switch to something better build. _I accept suggestions_.
 - Add a variation with choc spacing for [CFX keycaps](https://kbd.news/CFX-keycap-1553.html) (16,5mm x 16,5mm).
 
-> <sup>1</sup> The main reason for not doing this at the moment is the lack of motivation. As I have to pay for every prototype test and take time off to do the development and iterations I have to be mindful of the tasks I take.
+> <sup>1</sup> The main reason for not doing this at the moment is the lack of financial motivation. As I have to pay for every prototype and take time off to do the development and iterations I have to be mindful of the tasks I take. If you want to help contact me :)
 
 ## Versions
 
 At the moment this repo contains 2 versions, one with `TRRS` and one with `USB-C` connecting the halves. The `TRRS` connector are objectively worse than the `USB-C` for this use case, due to it introducing a risk of short in the case that the halves are unpluged with the board powered on. On the other side, the `USB-C` if not wired correctly may introduce a [risk of being connected directly to a power supply](https://docs.qmk.fm/features/split_keyboard) by mistake. I've done the bare minimum to prevent it, I wired the `GND` and `VCC` trying to follow the USB protocol. Another problem with the `USB-C` is that this implementation doesn't follow the USB protocol, it just hijack some of the data pins.
 
-In both cases it seems that [some controllers may not handle constant power well](https://github.com/zmkfirmware/zmk/issues/1110#issuecomment-2395179298).
-
 The [gerber files are in the release section.](https://github.com/anothermimich/K02/releases)
 The list of materials for each version are inside of the respective folder.
+
+## Assembly
+
+As the pcb doesn't have any information guiding the assembly, I have done an [manual with visual instructions](/other/manuals/k02-assembly-manual.pdf).
+
+<a href="/other/manuals/k02-assembly-manual.pdf" float="center">
+<img src="/other/img/k02-assembly-manual-display.jpg" width="100%" />
+</a>
 
 ## Silk art
 
