@@ -6,6 +6,10 @@ Check the [assembly manual](https://github.com/anothermimich/K02/blob/main/other
 <img src="/other/img/k02-assembly-manual-display.jpg" width="100%" />
 </a>
 
+# Production files
+
+The [gerber files can be found in the release section.](https://github.com/anothermimich/K02/releases)
+
 # Necessary Components
 
 | Quantity | What                                                                                                                              |
