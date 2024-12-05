@@ -2,19 +2,18 @@
 
 | Quantity | What                                                                                                                              |
 | -------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| 2        | PCB                                                                                                                               |
-| 2        | promicro compatible boards or nrf52840 or nice!nanos                                                                              |
-| 34       | switches ([Kailh PG1350/choc V1](https://cdn-shop.adafruit.com/product-files/5113/CHOC+keyswitch_Kailh-CPG135001D01_C400229.pdf)) |
-| 34       | keycaps choc v1 spaced ([MBK](https://fkcaps.com/keycaps/mbk) are the ideal size)                                                 |
-| 2        | reset switches (Omron [B3U-1000P(M)](https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3u.pdf))                                |
+| 2        | Controller (nrf52840 or pro micro compatible)                                                                                     |
+| 34       | Switches ([Kailh PG1350/choc V1](https://cdn-shop.adafruit.com/product-files/5113/CHOC+keyswitch_Kailh-CPG135001D01_C400229.pdf)) |
+| 34       | Keycaps choc v1 spaced ([MBK](https://fkcaps.com/keycaps/mbk) are the ideal size)                                                 |
+| 2        | Reset switches (Omron [B3U-1000P(M)](https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3u.pdf))                                |
 | ?        | Rubber feet (8mm x 2mm)                                                                                                           |
 
 ## Wireless
 
 | What | Quantity                        |
 | ---- | ------------------------------- |
-| 2    | power switches (MSK 12C02)      |
-| 2    | lithium battery (301230 110mah) |
+| 2    | Power switches (MSK 12C02)      |
+| 2    | Lithium battery (301230 110mah) |
 
 ## Wired
 
