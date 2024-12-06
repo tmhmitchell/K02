@@ -18,7 +18,7 @@ The [gerber files can be found in the release section.](https://github.com/anoth
 | 34       | Switches ([Kailh PG1350/choc V1](https://cdn-shop.adafruit.com/product-files/5113/CHOC+keyswitch_Kailh-CPG135001D01_C400229.pdf)) |
 | 34       | Keycaps choc v1 spaced ([MBK](https://fkcaps.com/keycaps/mbk) are the ideal size)                                                 |
 | 2        | Reset switches (Omron [B3U-1000P(M)](https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3u.pdf))                                |
-| ?        | Rubber feet (8mm x 2mm)                                                                                                           |
+| 10       | Rubber feet (8mm x 2mm)                                                                                                           |
 
 ## Wireless
 
