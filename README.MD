@@ -1,4 +1,4 @@
-<p float="left">
+<p float="center">
   <!-- <img src="/other/img/logo.svg" width="20%"/>  -->
   <img src="/other/img/photos/img (6).jpg" width="50%" /> 
   <img src="/other/img/photos/img (1).jpg" width="50%" /> 
