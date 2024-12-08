@@ -4,7 +4,6 @@
   <img src="/other/img/photos/img (7).jpg" width="48%" /> 
   <img src="/other/img/photos/img (3).jpg" width="48%" /> 
   <img src="/other/img/photos/img (18).jpg" width="48%" />
-  <img src="/other/img/photos/img (2).jpg" width="48%" />
 </p>
 
 <p float="left">
