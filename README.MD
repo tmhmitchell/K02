@@ -76,6 +76,6 @@ As this redesign had only touched on aesthetic aspects, you can use the firmware
 
 The files in this repo may contain problems, use them at your own risk.
 
-For the type nerds (like me), the text on the PCB and logo are [FuturaRenner](https://www.fontsquirrel.com/fonts/futura-renner) aka [Formera](https://github.com/noirblancrouge/Formera).
+For the type nerds _(like me)_, the text on the PCB and logo are [FuturaRenner](https://www.fontsquirrel.com/fonts/futura-renner) aka [Formera](https://github.com/noirblancrouge/Formera).
 
 The team behind the design of the incredible [Ferris Sweep](https://github.com/davidphilipbarr/Sweep) are: [Pierre Chevalier](https://github.com/pierrechevalier83), [David Barr](https://github.com/davidphilipbarr), [Ibnu Daru Aji](https://github.com/ibnuda/), [Duccio](https://github.com/duckyb). Without their work this parcial redesign would not be possible.
