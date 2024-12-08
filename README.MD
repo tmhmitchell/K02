@@ -6,11 +6,11 @@
   <img src="/other/img/photos/img (18).jpg" width="48%" />
 </p>
 
-<p float="left">
-  <img src="/other/img/banner.svg" width="48%" /> 
+<!-- <p float="left">
+  <img src="/other/img/banner.svg" width="48%" />
 </p>
 
-**Less, but better.** - Dieter Rams
+**Less, but better.** - Dieter Rams -->
 
 After seeing the [Ferris Sweep](https://github.com/davidphilipbarr/Sweep) for the first time I've fallen in love, but as a designer I cannot accept the things the way they are. So I've done some experimentation with it.
 
