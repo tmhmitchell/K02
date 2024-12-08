@@ -1,12 +1,18 @@
 <p float="left">
-  <img src="/other/img/logo.svg" width="20%" /> 
+  <!-- <img src="/other/img/logo.svg" width="20%"/>  -->
+  <img src="/other/img/photos/img (6).jpg" width="50%" /> 
+  <img src="/other/img/photos/img (1).jpg" width="50%" /> 
+  <img src="/other/img/photos/img (7).jpg" width="50%" /> 
+  <img src="/other/img/photos/img (3).jpg" width="50%" /> 
+  <img src="/other/img/photos/img (18).jpg" width="50%" /> 
+  <img src="/other/img/photos/img (17).jpg" width="50%" /> 
 </p>
 
 **Less, but better.** - Dieter Rams
 
 After seeing the [Ferris Sweep](https://github.com/davidphilipbarr/Sweep) for the first time I've fallen in love, but as a designer I cannot accept the things the way they are. So I've done some experimentation with it.
 
-I changed the overall form of the board so it can be a little bit more compact and be a canvas for expression in the matter of case design.
+I changed the overall form of the board so it can be a little bit more compact and be a canvas for expression in the matter of case design
 
 This is a parcial redesign of the [Ferris Sweep 2 half-swept](https://github.com/davidphilipbarr/Sweep). In other words this is a:
 
