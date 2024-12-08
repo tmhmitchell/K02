@@ -5,9 +5,7 @@
   <img src="/other/img/photos/img (3).jpg" width="48%" /> 
   <img src="/other/img/photos/img (18).jpg" width="48%" />
 </p>
-<p float="center">
-  <img src="/other/img/logo.svg" width="20%"/> 
-<p>
+
 **Less, but better.** - Dieter Rams
 
 After seeing the [Ferris Sweep](https://github.com/davidphilipbarr/Sweep) for the first time I've fallen in love, but as a designer I cannot accept the things the way they are. So I've done some experimentation with it.
@@ -64,6 +62,11 @@ As the pcb doesn't have any information guiding the assembly, I have done an [ma
 ## Silk art
 
 I commissioned the work of the brazilian artist [Aline Dal Pont](https://www.instagram.com/manifesto.efemero/) for this board. You can remove the work completely or leave it as it is with the credits. You cannot use the work outside of this board or modify it in any way without the express autorization of the artist.
+
+<p float="center">
+  <img src="/other/img/photos/img (8).jpg" width="48%" /> 
+  <img src="/other/img/photos/img (5).jpg" width="48%" /> 
+</p>
 
 ## Firmware
 
