@@ -6,8 +6,8 @@
   <img src="/other/img/photos/img (18).jpg" width="48%" />
 </p>
 
-<p float="center">
-  <img src="/other/img/banner.svg" width="96%" /> 
+<p float="left">
+  <img src="/other/img/banner.svg" width="48%" /> 
 </p>
 
 **Less, but better.** - Dieter Rams
