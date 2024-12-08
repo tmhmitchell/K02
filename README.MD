@@ -1,11 +1,11 @@
 <p float="center">
   <!-- <img src="/other/img/logo.svg" width="20%"/>  -->
-  <img src="/other/img/photos/img (6).jpg" width="50%" /> 
-  <img src="/other/img/photos/img (1).jpg" width="50%" /> 
-  <img src="/other/img/photos/img (7).jpg" width="50%" /> 
-  <img src="/other/img/photos/img (3).jpg" width="50%" /> 
-  <img src="/other/img/photos/img (18).jpg" width="50%" /> 
-  <img src="/other/img/photos/img (17).jpg" width="50%" /> 
+  <img src="/other/img/photos/img (6).jpg" width="48%" /> 
+  <img src="/other/img/photos/img (1).jpg" width="48%" /> 
+  <img src="/other/img/photos/img (7).jpg" width="48%" /> 
+  <img src="/other/img/photos/img (3).jpg" width="48%" /> 
+  <img src="/other/img/photos/img (18).jpg" width="48%" /> 
+  <img src="/other/img/photos/img (17).jpg" width="48%" /> 
 </p>
 
 **Less, but better.** - Dieter Rams
