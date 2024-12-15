@@ -1,4 +1,4 @@
-<p float="right">
+<p float="center" border-radius="10px">
   <img src="/other/img/photos/img (1).jpg" width="96%" /> 
   <img src="/other/img/photos/img (6).jpg" width="48%" /> 
   <img src="/other/img/photos/img (7).jpg" width="48%" /> 
