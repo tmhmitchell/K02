@@ -73,7 +73,7 @@ I'm using the [Miryoku ZMK](https://github.com/manna-harbour/miryoku_zmk) keymap
 
 ## Silk art
 
-I commissioned the work of the brazilian artist [Aline Dal Pont](https://www.instagram.com/manifesto.efemero/) for this board. You can remove the work completely or leave it as it is with the credits. You cannot use the work outside of this board or modify it in any way without the express autorization of the artist.
+I commissioned the work of the brazilian artist [Aline Dal Pont](https://www.instagram.com/manifesto.efemero/) for this board. You can use it as it is (with the credits) for non-commercial ends. You cannot use the work outside of this board, modify it in any way or use it commercially without the express autorization of the artist.
 
 <p float="center">
   <img src="/other/img/photos/img (8).jpg" width="48%" /> 
