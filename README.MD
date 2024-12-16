@@ -61,7 +61,7 @@ The list of materials for each version are inside of the respective folder, [USB
 As the pcb doesn't have any information guiding the assembly, I have done an [manual with visual instructions](/other/manuals/k02-assembly-manual.pdf).
 
 <a href="/other/manuals/k02-assembly-manual.pdf" float="center">
-<img src="/other/img/k02-assembly-manual-display.jpg" width="100%" />
+<img src="/other/img/k02-assembly-manual-display.jpg" width="96%" />
 </a>
 
 ## Keymap
