@@ -7,12 +7,8 @@ https://creativecommons.org/licenses/by-nc-nd/4.0/
 
 All the rights are reserved to Aline Dal Pont.
 
-# Keymap
-
-See Miryoku license published by Manna Harbour.
-https://github.com/manna-harbour/miryoku/
-
 # Hardware
+
 ## SOLDERPAD HARDWARE LICENSE VERSION 2.1
 
 This license operates as a wraparound license to the Apache License Version 2.0 (the "Apache License") and incorporates the terms and conditions of the Apache License (which can be found here: http://apache.org/licenses/LICENSE-2.0), with the following additions and modifications. It must be read in conjunction with the Apache License. Section 1 below modifies definitions and terminology in the Apache License and Section 2 below replaces Section 2 of the Apache License. The Appendix replaces the Appendix in the Apache License. You may, at your option, choose to treat any Work released under this license as released under the Apache License (thus ignoring all sections written below entirely).
@@ -55,4 +51,3 @@ Licensed under the Solderpad Hardware License v 2.1 (the "License"); you may not
 https://solderpad.org/licenses/SHL-2.1/
 
 Unless required by applicable law or agreed to in writing, any work distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
-
