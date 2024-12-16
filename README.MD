@@ -40,7 +40,7 @@ This is a parcial redesign of the [Ferris Sweep 2 half-swept](https://github.com
 - Add commissioned art by the brazilian artist [Aline Dal Pont](https://www.instagram.com/manifesto.efemero/).
 - Remove all the informative silk graphics for a better looking board.
 
-### What I may do<sup>1<sup>:
+### What I may do<sup>1</sup>:
 
 - Make it compatible with choc V2 switches.
 - Design some _minimalist_ and _low profile_ cases.
@@ -66,7 +66,7 @@ As the pcb doesn't have any information guiding the assembly, I have done an [ma
 
 ## Keymap
 
-I'm using the [Miryoku ZMK](https://github.com/manna-harbour/miryoku_zmk) keymap made by [Manna Harbour](https://github.com/manna-harbour). Bellow you can see the layout that I ended up<sup>2<sup>, if you want to replicate it you can use [compiled firmware](/other/keymaps/) or compile it from scratch with the [parameters that accompany the compiled firmware](/other/keymaps/) and with this [custom_config.h](https://github.com/anothermimich/miryoku_zmk/blob/master/miryoku/custom_config.h) file.
+I'm using the [Miryoku ZMK](https://github.com/manna-harbour/miryoku_zmk) keymap made by [Manna Harbour](https://github.com/manna-harbour). Bellow you can see the layout that I ended up<sup>2</sup>, if you want to replicate it you can use [compiled firmware](/other/keymaps/) or compile it from scratch with the [parameters that accompany the compiled firmware](/other/keymaps/) and with this [custom_config.h](https://github.com/anothermimich/miryoku_zmk/blob/master/miryoku/custom_config.h) file.
 
 > <sup>2</sup> I'm planning on rewriting the keymap from scratch due to the excessive complexication introduced by miryoku.
 
