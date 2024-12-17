@@ -42,6 +42,7 @@ This is a parcial redesign of the [Ferris Sweep 2 half-swept](https://github.com
 
 ### What I may do<sup>1</sup>:
 
+- Change the `USB-C` to mid mount.
 - Make it compatible with choc V2 switches.
 - Design some _minimalist_ and _low profile_ cases.
 - Create an 36 keys pcb with breakpoints/mousebites.
