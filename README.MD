@@ -68,9 +68,9 @@ As the pcb doesn't have any information guiding the assembly, I have done an [ma
 
 ## Keymap
 
-I'm using the [Miryoku ZMK](https://github.com/manna-harbour/miryoku_zmk) keymap made by [Manna Harbour](https://github.com/manna-harbour). Bellow you can see the layout that I ended up<sup>2</sup>, if you want to replicate it you can use [compiled firmware](/other/keymaps/) or compile it from scratch with the [parameters that accompany the compiled firmware](/other/keymaps/) and with this [custom_config.h](https://github.com/anothermimich/miryoku_zmk/blob/master/miryoku/custom_config.h) file.
+I'm using the [Miryoku ZMK](https://github.com/manna-harbour/miryoku_zmk) keymap made by [Manna Harbour](https://github.com/manna-harbour). Bellow you can see the layout that I ended up<sup>2</sup>, if you want to replicate it you can use [compiled firmware](/other/keymaps/) or compile it from scratch with this [github workflow](https://github.com/anothermimich/miryoku_zmk/blob/master/.github/workflows/k02.yml), [custom_config.h](https://github.com/anothermimich/miryoku_zmk/blob/master/miryoku/custom_config.h), [cradio_left.conf](https://github.com/anothermimich/miryoku_zmk/blob/master/config/cradio_left.conf) and [cradio_right.conf](https://github.com/anothermimich/miryoku_zmk/blob/master/config/cradio_right.conf) files.
 
-> <sup>2</sup> I'm planning on rewriting the keymap from scratch due to the excessive complexication introduced by miryoku.
+> <sup>2</sup> I'm waiting miryoku support for `.svg` export or for the maintanner to send me the files to generate it manually. [More info can be found here](https://github.com/manna-harbour/miryoku/issues/72)
 
 ## Silk art
 
